@@ -9,6 +9,7 @@ Created on Wed Sep 16 23:54:07 2020
 from selenium import webdriver
 
 #If you are using chrome browser for scrapping download the below executable file and navigate to it
+#Not included in the project. Download and change the path to work smoothly.
 chrome_path= r"C:\Users\saikrishnavuta\Desktop\My_projects\ml\Data scraping\chromedriver_win32\chromedriver.exe"
 
 #To open the chrome browser
